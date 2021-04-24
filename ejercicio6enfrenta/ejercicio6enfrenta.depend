@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618948174 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\ejercicio6enfrenta\cargadorbajas.c
+	<stdio.h>
+
+1618947549 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\ejercicio6enfrenta\cargadormaestro.c
+	<stdio.h>
+
+1618948670 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\ejercicio6enfrenta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

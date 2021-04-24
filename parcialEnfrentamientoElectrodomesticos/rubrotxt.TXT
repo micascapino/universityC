@@ -1,0 +1,4 @@
+20 Electronica N
+10 Banio S
+15 Cocina S
+30 Parque N

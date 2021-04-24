@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618988239 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\parcialelectrodomesticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619033559 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\parcialenfrentamientoelectrodomesticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

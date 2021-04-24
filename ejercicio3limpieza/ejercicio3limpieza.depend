@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618432550 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\ejercicio3limpieza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618432655 source:c:\users\micas\desktop\backup\universidad\2do año\algoritmos y estructuras de datos i\practica 4\ejercicio3limpieza\cargador.c
+	<stdio.h>
+
